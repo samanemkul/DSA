@@ -70,8 +70,7 @@ int main()
 		default :
 			{
 				printf("\n!!!Invalid Choice!!!");
-				goto label1;
-				break;
+				break;	
 			}
 	}
 	return 0;

@@ -5,7 +5,6 @@ int main()
 	int n,i,a[100],temp=0,j;
 	printf("Enter the size of array\n");
 	scanf("%d",&n);
-	int h=n-1;
 	printf("Enter the elements of array\n");
 	for(i=0;i<n;i++)
 	{
